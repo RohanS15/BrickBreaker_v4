@@ -1,0 +1,10 @@
+C:\Users\rohan\source\repos\brick breaker v5 roh\brick breaker v5 roh\obj\Debug\brick breaker v5 roh.csprojAssemblyReference.cache
+C:\Users\rohan\source\repos\brick breaker v5 roh\brick breaker v5 roh\obj\Debug\brick_breaker_v5_roh.Form1.resources
+C:\Users\rohan\source\repos\brick breaker v5 roh\brick breaker v5 roh\obj\Debug\brick_breaker_v5_roh.Properties.Resources.resources
+C:\Users\rohan\source\repos\brick breaker v5 roh\brick breaker v5 roh\obj\Debug\brick breaker v5 roh.csproj.GenerateResource.cache
+C:\Users\rohan\source\repos\brick breaker v5 roh\brick breaker v5 roh\obj\Debug\brick breaker v5 roh.csproj.CoreCompileInputs.cache
+C:\Users\rohan\source\repos\brick breaker v5 roh\brick breaker v5 roh\bin\Debug\brick breaker v5 roh.exe.config
+C:\Users\rohan\source\repos\brick breaker v5 roh\brick breaker v5 roh\bin\Debug\brick breaker v5 roh.exe
+C:\Users\rohan\source\repos\brick breaker v5 roh\brick breaker v5 roh\bin\Debug\brick breaker v5 roh.pdb
+C:\Users\rohan\source\repos\brick breaker v5 roh\brick breaker v5 roh\obj\Debug\brick breaker v5 roh.exe
+C:\Users\rohan\source\repos\brick breaker v5 roh\brick breaker v5 roh\obj\Debug\brick breaker v5 roh.pdb
